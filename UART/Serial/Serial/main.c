@@ -2,7 +2,7 @@
  * Serial.c
  *
  * Created: 2018-05-11 오후 7:18:13
- * Author : 동네개발자
+ * Author : Dongne Yoon
  */ 
 
 #include <avr/io.h>

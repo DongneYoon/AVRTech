@@ -2,7 +2,7 @@
  * Servo.c
  *
  * Created: 2018-05-11 오후 12:09:13
- * Author : 종식
+ * Author : Dongne Yoon
  */ 
 
 #include <avr/io.h>
