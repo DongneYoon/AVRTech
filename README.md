@@ -1,13 +1,14 @@
 # AVRTech
 
-AVR Modules
+# Environment
+## Arduino UNO
+## Atmel studio 7.0
 
-Here are the codes for each module that you have practiced for AVR.
+## GPIO
+### LED : LED 8개를 깜박거리는 프로그램
 
-이곳에는 AVR을 연습한 모듈별로 코드들을 올려둔다.
+## PWM
+### Servo : 스위치 2개이 입력으로 Servo motor 2개 Control 하는 프로그램
 
-1. LED
-2. LCD
-3. Servo Moter
-4. RS232
-5. 
+## UART
+### Serial : 스위치를 누를때 마다 Hello 를 terminal 에서 표시하는 프로그램
